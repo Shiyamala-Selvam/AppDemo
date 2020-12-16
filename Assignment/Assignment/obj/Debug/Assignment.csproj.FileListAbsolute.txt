@@ -1,0 +1,7 @@
+D:\GIT\Works\Day2Assignment\Assignment\Assignment\bin\Debug\Assignment.exe.config
+D:\GIT\Works\Day2Assignment\Assignment\Assignment\bin\Debug\Assignment.exe
+D:\GIT\Works\Day2Assignment\Assignment\Assignment\bin\Debug\Assignment.pdb
+D:\GIT\Works\Day2Assignment\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+D:\GIT\Works\Day2Assignment\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+D:\GIT\Works\Day2Assignment\Assignment\Assignment\obj\Debug\Assignment.exe
+D:\GIT\Works\Day2Assignment\Assignment\Assignment\obj\Debug\Assignment.pdb
